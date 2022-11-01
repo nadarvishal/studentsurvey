@@ -1,0 +1,25 @@
+body{
+	background-color : #bebebe;
+	color: #0c0c0c;
+}
+h1{
+	color: #FFCC33;
+  border-style: solid;
+  border-color: #006633;
+  background-color : #437a3b
+  
+}
+p.customclass{
+	color: #ac9245;
+}
+
+td, th {
+  text-align: left;
+  padding: 8px;
+  background-color: #335f2d;
+  color: #FFCC33
+}
+ 
+tr {
+  background-color: gray;
+}
